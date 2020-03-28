@@ -12,7 +12,7 @@ date_default_timezone_set("Asia/Jakarta");
 echo "<center>Latihan API</center>";
 
 $domain = 'detik.com';
-$apikey = 'eff99591404040e6b3eb924d409bb9b4';
+$apikey = 'your_newsapi.org_API_Key';
 
 $i = 0;
 
